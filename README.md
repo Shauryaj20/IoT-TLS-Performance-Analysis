@@ -1,4 +1,4 @@
-# IoT-TLS-Performance-Aanalysis
+# IoT-TLS-Performance-Analysis
 Benchmarking RSA vs. ECC Cipher Suites for secure MQTT communication in resource-constrained IoT environment simulation.
 
 # IoT Security: RSA vs. ECC Performance Analysis 🔒
